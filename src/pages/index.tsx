@@ -177,7 +177,7 @@ const Home: NextPage = () => {
                 <ExampleQuestion
                   onClick={onExampleClick}
                   isLoading={isLoading}
-                  question="Can I bring my guide dog on board?"
+                  question="Can I bring my emotional support parrot on board?"
                 />
 
                 <ExampleQuestion
