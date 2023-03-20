@@ -1,6 +1,6 @@
 export const Disclaimer = (): JSX.Element => {
   return (
-    <div className="w-full p-2 text-center text-xs text-zinc-300 sm:text-sm">
+    <div className="p-2 text-center text-xs text-zinc-300 sm:text-sm">
       <p>
         Please note that I am currently trained on{" "}
         <a
