@@ -1,4 +1,4 @@
-# Wizz specific chat-gpt app
+# Wizz Air specific chat-gpt app
 
 - Next.js
 - Tailwind CSS
